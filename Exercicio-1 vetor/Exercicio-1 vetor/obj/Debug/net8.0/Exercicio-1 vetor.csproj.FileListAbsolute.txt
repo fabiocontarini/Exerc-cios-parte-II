@@ -1,0 +1,14 @@
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\Exercicio-1 vetor\Exercicio-1 vetor\bin\Debug\net8.0\Exercicio-1 vetor.exe
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\Exercicio-1 vetor\Exercicio-1 vetor\bin\Debug\net8.0\Exercicio-1 vetor.deps.json
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\Exercicio-1 vetor\Exercicio-1 vetor\bin\Debug\net8.0\Exercicio-1 vetor.runtimeconfig.json
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\Exercicio-1 vetor\Exercicio-1 vetor\bin\Debug\net8.0\Exercicio-1 vetor.dll
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\Exercicio-1 vetor\Exercicio-1 vetor\bin\Debug\net8.0\Exercicio-1 vetor.pdb
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\Exercicio-1 vetor\Exercicio-1 vetor\obj\Debug\net8.0\Exercicio-1 vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\Exercicio-1 vetor\Exercicio-1 vetor\obj\Debug\net8.0\Exercicio-1 vetor.AssemblyInfoInputs.cache
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\Exercicio-1 vetor\Exercicio-1 vetor\obj\Debug\net8.0\Exercicio-1 vetor.AssemblyInfo.cs
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\Exercicio-1 vetor\Exercicio-1 vetor\obj\Debug\net8.0\Exercicio-1 vetor.csproj.CoreCompileInputs.cache
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\Exercicio-1 vetor\Exercicio-1 vetor\obj\Debug\net8.0\Exercicio-1 vetor.dll
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\Exercicio-1 vetor\Exercicio-1 vetor\obj\Debug\net8.0\refint\Exercicio-1 vetor.dll
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\Exercicio-1 vetor\Exercicio-1 vetor\obj\Debug\net8.0\Exercicio-1 vetor.pdb
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\Exercicio-1 vetor\Exercicio-1 vetor\obj\Debug\net8.0\Exercicio-1 vetor.genruntimeconfig.cache
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\Exercicio-1 vetor\Exercicio-1 vetor\obj\Debug\net8.0\ref\Exercicio-1 vetor.dll

@@ -1,0 +1,14 @@
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\exercicio 7  -  For\bin\Debug\net8.0\exercicio 7  -  For.exe
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\exercicio 7  -  For\bin\Debug\net8.0\exercicio 7  -  For.deps.json
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\exercicio 7  -  For\bin\Debug\net8.0\exercicio 7  -  For.runtimeconfig.json
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\exercicio 7  -  For\bin\Debug\net8.0\exercicio 7  -  For.dll
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\exercicio 7  -  For\bin\Debug\net8.0\exercicio 7  -  For.pdb
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\exercicio 7  -  For\obj\Debug\net8.0\exercicio 7  -  For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\exercicio 7  -  For\obj\Debug\net8.0\exercicio 7  -  For.AssemblyInfoInputs.cache
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\exercicio 7  -  For\obj\Debug\net8.0\exercicio 7  -  For.AssemblyInfo.cs
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\exercicio 7  -  For\obj\Debug\net8.0\exercicio 7  -  For.csproj.CoreCompileInputs.cache
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\exercicio 7  -  For\obj\Debug\net8.0\exercicio 7  -  For.dll
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\exercicio 7  -  For\obj\Debug\net8.0\refint\exercicio 7  -  For.dll
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\exercicio 7  -  For\obj\Debug\net8.0\exercicio 7  -  For.pdb
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\exercicio 7  -  For\obj\Debug\net8.0\exercicio 7  -  For.genruntimeconfig.cache
+C:\Users\Fabio Contarini\Desktop\BackEnd\exercicios2\exercicio 7  -  For\obj\Debug\net8.0\ref\exercicio 7  -  For.dll

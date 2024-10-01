@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fabio Contarini\\Desktop\\BackEnd\\exercicios2\\Exercicio-1 vetor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93634C6C-DE14-4AEA-9533-7996F808646B}|..\\exercicio 3 - TryCatch\\exercicio 3 - TryCatch.csproj|c:\\users\\fabio contarini\\desktop\\backend\\exercicios2\\exercicio 3 - trycatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE6918D-FCD7-41C6-95FD-51D1A265464C}|..\\exercicio 5 - DoWhile\\exercicio 5 - DoWhile.csproj|c:\\users\\fabio contarini\\desktop\\backend\\exercicios2\\exercicio 5 - dowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD589392-BF18-483F-8B81-7335D2C17CA1}|..\\..\\introducaoC#\\09-DoWhile\\09-DoWhile\\09-DoWhile.csproj|c:\\users\\fabio contarini\\desktop\\backend\\introducaoc#\\09-dowhile\\09-dowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4E61A9-94F2-41FE-8970-DB3BD9E32587}|..\\exercicio 4 - if else\\exercicio 4 - if else.csproj|c:\\users\\fabio contarini\\desktop\\backend\\exercicios2\\exercicio 4 - if else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519A3AB5-2C12-4787-A41D-A03C2B429313}|..\\exercicio 7  -  For\\exercicio 7  -  For.csproj|c:\\users\\fabio contarini\\desktop\\backend\\exercicios2\\exercicio 7  -  for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E57174A-5CD8-4452-A6BA-B2173AC4CBC8}|..\\exercicio 6 - DoWhile\\exercicio 6 - DoWhile.csproj|c:\\users\\fabio contarini\\desktop\\backend\\exercicios2\\exercicio 6 - dowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA28673-9214-405D-9BB6-922DD0A79A9E}|..\\exercicio 8 - For\\exercicio 8 - For.csproj|c:\\users\\fabio contarini\\desktop\\backend\\exercicios2\\exercicio 8 - for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EFEDD1-5B0A-42AE-9310-E892F6A118E6}|..\\exercicio 9 - For\\exercicio 9 - For.csproj|c:\\users\\fabio contarini\\desktop\\backend\\exercicios2\\exercicio 9 - for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio Contarini\\Desktop\\BackEnd\\exercicios2\\exercicio 9 - For\\Program.cs",
+              "RelativeDocumentMoniker": "..\\exercicio 9 - For\\Program.cs",
+              "ToolTip": "C:\\Users\\Fabio Contarini\\Desktop\\BackEnd\\exercicios2\\exercicio 9 - For\\Program.cs",
+              "RelativeToolTip": "..\\exercicio 9 - For\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:22:11.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio Contarini\\Desktop\\BackEnd\\exercicios2\\exercicio 8 - For\\Program.cs",
+              "RelativeDocumentMoniker": "..\\exercicio 8 - For\\Program.cs",
+              "ToolTip": "C:\\Users\\Fabio Contarini\\Desktop\\BackEnd\\exercicios2\\exercicio 8 - For\\Program.cs",
+              "RelativeToolTip": "..\\exercicio 8 - For\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:44:21.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio Contarini\\Desktop\\BackEnd\\exercicios2\\exercicio 6 - DoWhile\\Program.cs",
+              "RelativeDocumentMoniker": "..\\exercicio 6 - DoWhile\\Program.cs",
+              "ToolTip": "C:\\Users\\Fabio Contarini\\Desktop\\BackEnd\\exercicios2\\exercicio 6 - DoWhile\\Program.cs",
+              "RelativeToolTip": "..\\exercicio 6 - DoWhile\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:40:39.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio Contarini\\Desktop\\BackEnd\\exercicios2\\exercicio 7  -  For\\Program.cs",
+              "RelativeDocumentMoniker": "..\\exercicio 7  -  For\\Program.cs",
+              "ToolTip": "C:\\Users\\Fabio Contarini\\Desktop\\BackEnd\\exercicios2\\exercicio 7  -  For\\Program.cs",
+              "RelativeToolTip": "..\\exercicio 7  -  For\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:13:56.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio Contarini\\Desktop\\BackEnd\\exercicios2\\exercicio 4 - if else\\Program.cs",
+              "RelativeDocumentMoniker": "..\\exercicio 4 - if else\\Program.cs",
+              "ToolTip": "C:\\Users\\Fabio Contarini\\Desktop\\BackEnd\\exercicios2\\exercicio 4 - if else\\Program.cs",
+              "RelativeToolTip": "..\\exercicio 4 - if else\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:53:12.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio Contarini\\Desktop\\BackEnd\\introducaoC#\\09-DoWhile\\09-DoWhile\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\introducaoC#\\09-DoWhile\\09-DoWhile\\Program.cs",
+              "ToolTip": "C:\\Users\\Fabio Contarini\\Desktop\\BackEnd\\introducaoC#\\09-DoWhile\\09-DoWhile\\Program.cs",
+              "RelativeToolTip": "..\\..\\introducaoC#\\09-DoWhile\\09-DoWhile\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:17:59.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio Contarini\\Desktop\\BackEnd\\exercicios2\\exercicio 5 - DoWhile\\Program.cs",
+              "RelativeDocumentMoniker": "..\\exercicio 5 - DoWhile\\Program.cs",
+              "ToolTip": "C:\\Users\\Fabio Contarini\\Desktop\\BackEnd\\exercicios2\\exercicio 5 - DoWhile\\Program.cs",
+              "RelativeToolTip": "..\\exercicio 5 - DoWhile\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:04:56.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio Contarini\\Desktop\\BackEnd\\exercicios2\\exercicio 3 - TryCatch\\Program.cs",
+              "RelativeDocumentMoniker": "..\\exercicio 3 - TryCatch\\Program.cs",
+              "ToolTip": "C:\\Users\\Fabio Contarini\\Desktop\\BackEnd\\exercicios2\\exercicio 3 - TryCatch\\Program.cs",
+              "RelativeToolTip": "..\\exercicio 3 - TryCatch\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:43:17.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
